@@ -14,4 +14,5 @@ A simple Rock-Paper-Scissors game written in Python.
 ## Future Improvements
 - Add GUI (Tkinter)
 - Add sound effects
+- Add Score system (first to reach 3 points wins)
 - Add restart menu
